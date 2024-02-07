@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['595975701824', '👑 Creador 👑', true],
   ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
@@ -39,11 +39,11 @@ global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ';
+global.wm = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ';
+global.titulowm = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ';
+global.titulowm2 = `𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ`
+global.igfg = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,7 +66,7 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
 global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.mysticbot = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';

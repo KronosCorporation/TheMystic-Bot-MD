@@ -51,7 +51,7 @@ global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
 global.imagen4 = fs.readFileSync('./40c5e97b1c65ea6764efb1addef425b3.jpg');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
-global.imagen6 = fs.readFileSync('./Menu3.png');
+global.imagen6 = fs.readFileSync('./8d0a65aa8242b49692b9b4bc8428e827.jpg');
 
 global.mods = [];
 

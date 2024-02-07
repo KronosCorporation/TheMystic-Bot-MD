@@ -46,10 +46,10 @@ global.titulowm2 = `𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ`
 global.igfg = '𝕬⳽ⲙⲟ𝖽ⲉⳙ⳽-Ƀøŧ';
 global.wait = '*[ ⏳ ] Cargando...*';
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
+global.imagen1 = fs.readFileSync('./40c5e97b1c65ea6764efb1addef425b3.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
-global.imagen4 = fs.readFileSync('./Menu.png');
+global.imagen4 = fs.readFileSync('./40c5e97b1c65ea6764efb1addef425b3.jpg');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 
